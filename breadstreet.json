@@ -9,41 +9,41 @@
     {
     "type": "meal_vertical",
     "name": "Greek salad 250gr.",
-    "price": "15",
+    "price": "15 zł",
     "description": "Tomato, cucumber, bell papper, olives, lettuce leaves, lemon, Fetta, onion, vinaigrette.",
     "img": "https://static.wixstatic.com/media/cb4d20_648efef5dbdc428381a6ead303e3e1d8~mv2.jpg/v1/fill/w_398,h_265,usm_1.20_1.00_0.01/file.jpg"
     },
     {
     "type": "meal_vertical",
     "name": "Caesar salad 250gr.",
-    "price": "18",
+    "price": "18 zł",
     "description": "Chicken, bacon, tomato, lettuce leaves, crackers, Parmesan, garlic, Caesar sauce.",
     "img": "https://static.wixstatic.com/media/cb4d20_004766f8d8114d7ba16542477bbee364~mv2.jpg/v1/fill/w_398,h_265,usm_1.20_1.00_0.01/file.jpg"
     },
     {
     "type": "meal_vertical",
     "name": "Salad with cheeseballs 250gr.",
-    "price": "20",
+    "price": "20 zł",
     "description": "Cheeseballs, tomato, lettuce leaves, egg, cucumber, Parmesan, secret dressing",
     "img": "https://static.wixstatic.com/media/cb4d20_f9d18700eb05440ebb62c4aa975c8ef5~mv2.jpg/v1/fill/w_398,h_265,usm_1.20_1.00_0.01/file.jpg"
     },
     {
     "type": "meal_vertical",
     "name": "Turkey salad with Ranch sauce 250gr.",
-    "price": "20",
+    "price": "20 zł",
     "description": "Turkey meat, tomato, apple, raisins, lettuce leaves, Chinese cabbage, Ranch sauce.",
     "img": "https://static.wixstatic.com/media/cb4d20_e94b7b8bd15d433fa2c1f36470e5f3f3~mv2.jpg/v1/fill/w_398,h_265,usm_1.20_1.00_0.01/file.jpg"
     },
     {
     "type": "meal",
     "name": "Chicken salad with peaches 250gr.",
-    "price": "22",
+    "price": "22 zł",
     "description": "Chicken, peaches, tomato, lettuce leaves, cashew nuts, Ranch sauce."
     },
     {
     "type": "meal",
     "name": "Nisua salad 250gr.",
-    "price": "25",
+    "price": "25 zł",
     "description": "Tuna, tomato, bell papper, egg, onion, lettuce leaves, olives, anchovies, black eyed peas, lemon, mustard sauce."
     }
     ]
@@ -54,29 +54,29 @@
     {
     "type": "meal_vertical",
     "name": "Turkey broth with noodles 250gr.",
-    "price": "18",
+    "price": "18 zł",
     "img": "https://static.wixstatic.com/media/cb4d20_eb935d84866c40f5927fc7cbd166ad5d~mv2.jpg/v1/fill/w_398,h_265,usm_1.20_1.00_0.01/file.jpg"
     },
     {
     "type": "meal_vertical",
     "name": "Champignon cream-soup 250gr.",
-    "price": "20",
+    "price": "20 zł",
     "img": "https://static.wixstatic.com/media/cb4d20_593bead82028403f94a73acb2f21c10c~mv2.jpg/v1/fill/w_398,h_265,usm_1.20_1.00_0.01/file.jpg"
     },
     {
     "type": "meal",
-    "name": "Bacon-potato cream soup 250г.",
-    "price": "20"
+    "name": "Bacon-potato cream soup 250gr.",
+    "price": "20 zł"
     },
     {
     "type": "meal",
-    "name": "Pumpkin cream-soup 250г.",
-    "price": "20"
+    "name": "Pumpkin cream-soup 250gr.",
+    "price": "20 zł"
     },
     {
     "type": "meal",
     "name": "Okroshka",
-    "price": "45"
+    "price": "10 zł"
     }
     ]
     },
@@ -86,39 +86,39 @@
     {
     "type": "meal_vertical",
     "name": "Chicken desk with Ranch sous",
-    "price": "25",
+    "price": "25 zł",
     "img": "https://static.wixstatic.com/media/cb4d20_f0a693b556474874aa618fb028326541~mv2.jpg/v1/fill/w_398,h_265,usm_1.20_1.00_0.01/file.jpg"
     },
     {
     "type": "meal_vertical",
     "name": "Veal steak with grilled vegies 350gr.",
-    "price": "30",
+    "price": "30 zł",
     "img": "https://static.wixstatic.com/media/cb4d20_78d043efc5bb4c398152e954e67a2e29~mv2.jpg/v1/fill/w_398,h_265,usm_1.20_1.00_0.01/file.jpg"
     },
     {
     "type": "meal",
     "name": "Kebab 350г.",
-    "price": "12"
+    "price": "12 zł"
     },
     {
     "type": "meal",
     "name": "Vitello tonato 180gr.",
-    "price": "15"
+    "price": "15 zł"
     },
     {
     "type": "meal",
     "name": "Fish end chips 300gr.",
-    "price": "25"
+    "price": "25 zł"
     },
     {
     "type": "meal",
     "name": "Pullgotti meat 330gr.",
-    "price": "24"
+    "price": "24 zł"
     },
     {
     "type": "meal",
     "name": "Pork BBQ with vegies 40gr.",
-    "price": "30"
+    "price": "30 zł"
     }
     ]
     },
@@ -128,24 +128,24 @@
     {
     "type": "meal_vertical",
     "name": "Noodles with veal and caramelized onions 280gr.",
-    "price": "18",
+    "price": "18 zł",
     "img": "https://static.wixstatic.com/media/cb4d20_1c31bbfd2fda46e58c9b2e854c30cf97~mv2.jpg/v1/fill/w_398,h_265,usm_1.20_1.00_0.01/file.jpg"
     },
     {
     "type": "meal_vertical",
     "name": "Pasta Carbonara 250gr.",
-    "price": "20",
+    "price": "20 zł",
     "img": "https://static.wixstatic.com/media/cb4d20_0ac102cc2f9d4a968cbc9e7735adcc87~mv2.jpg/v1/fill/w_398,h_265,usm_1.20_1.00_0.01/file.jpg"
     },
     {
     "type": "meal",
     "name": "Noodles with chicken 280gr.",
-    "price": "15"
+    "price": "15 zł"
     },
     {
     "type": "meal",
     "name": "Grilled vegies with Olioli sauce 250gr.",
-    "price": "12"
+    "price": "12 zł"
     }
     ]
     }
