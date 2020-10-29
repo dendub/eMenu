@@ -152,7 +152,8 @@
     {
     "type": "meal",
     "name": "Latte",
-    "price": "12"
+    "price": "12",
+    "img": "https://lh3.googleusercontent.com/proxy/-gC09EMT6ZEb9BRZr3JSdOWX8_ItN8Q0u5ancPX1zX4Pa-589JVXSVz5BKJdiF04ckZsX0khVxWQFHY-BeTRXBiO2iyWHyxDN9nUneaaleC-BRNQD-lz1VDfM2s"
     },
     {
     "type": "meal",
