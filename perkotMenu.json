@@ -1,496 +1,496 @@
 {
-    "rest_name": "Ferkot",
-    "rest_address": "Jastarnia, Sychty 49",
-    "menu": "Menu",
-    "blocks": [
-    {
-    "name": "Sałatki",
-    "products": [
-    {
-    "type": "meal",
-    "name": "Z wątróbką drobiową",
-    "price": "19",
-    "description": "Duszona wraz z jabłkiem w miodzie",
-    "img": ""
-    },
-    {
-    "type": "meal",
-    "name": "Z grillowanym Kurczakiem",
-    "price": "21",
-    "description": "mix sałat z kurczakiem grillowanym",
-    "img": ""
-    },
-    {
-    "type": "meal",
-    "name": "Grecka Horiatiki",
-    "price": "22",
-    "description": "Pomidor, papryka, oliwki, czerwona cebula, ser feta, oregano, oliwa",
-    "img": ""
-    },
-    {
-    "type": "meal",
-    "name": "Kozi Ser i Gruszka",
-    "price": "26",
-    "description": "Ser kozi w towarzystwie gruszki karamelizowanej",
-    "img": ""
-    }
-    ]
-},
-    {
-    "name": "Zupy",
-    "products": [
-    {
-    "type": "meal",
-    "name": "Rosół domowy",
-    "price": "10",
-    "img": ""
-    },
-    {
-    "type": "meal",
-    "name": "żurek na sposób szłachecki",
-    "price": "12",
-    "img": ""
-    },
-    {
-    "type": "meal",
-    "name": "Zupa dnia",
-    "price": "8",
-    "img": ""
-    }
-    ]
-},
-    {
-    "name": "Pierogi i pasty",
-    "products": [
-    {
-    "type": "meal",
-    "name": "Micha pirogów",
-    "description": "Do wyboru Ruskie, z mięsem, mix",
-    "price": "18"
-    },
-    {
-    "type": "meal",
-    "name": "Rukoła, pieczarki, boczek",
-    "description": "Domowy makaron, rukołą, pieczarki, boczek z sosem śmietankowym ",
-    "price": "24"
-    },
-    {
-    "type": "meal",
-    "name": "Penne z kurczakiem i brokułami",
-    "description": "w sosie śmietankowym",
-    "price": "60"
-    }
-]
-},
-    {
-    "name": "Dania mięsne",
-    "products": [
-    {
-    "type": "meal",
-    "name": "Leśniczy, Nasza Specjalność",
-    "description": "rolada z karkówki faszerowana droobiem w sosie z grzybów leśnych",
-    "price": "24zł"
-    },
-    {
-    "type": "meal",
-    "name": "Grillowana soczysta pierś z kurczaka",
-    "description": "Ryż curry, grillowane warzywa",
-    "price": "22"
-    },
-    {
-    "type": "meal",
-    "name": "Placek Ferkot",
-    "description": "smażony na bieżąco ze świeżo ucieranych ziemniaków, serwowany z wieprzowym gulaszem",
-    "price": "23"
-    },
-    {
-    "type": "meal",
-    "name": "Narodowy kotlet schabowy",
-    "description": "schab panierowany, lekko wytrawna kapusta zasmażana, ziemniaki z wody",
-    "price": "23"
-    },
-    {
-    "type": "meal",
-    "name": "Kotlet De Volaille",
-    "description":"przyrządzany na bieżąco z prawdziwym masłem i aromatyczną nutką pietruszki",
-    "price": "24"
-    }
-    ]
-    },
-    {
-    "name": "Napoje",
-    "products": [
-    {
-    "type": "info",
-    "text": "Kawa",
-    },
-    {
-    "type": "meal",
-    "name": "Espresso",
-    "price": "8"
-    },
-    {
-    "type": "meal",
-    "name": "Doppio",
-    "price": "12"
-    },
-    {
-    "type": "meal",
-    "name": "Americano",
-    "price": "10"
-    },
-    {
-    "type": "meal",
-    "name": "Americano białe",
-    "price": "12"
-    },
-    {
-    "type": "meal",
-    "name": "Capuccino",
-    "price": "12"
-    },
-    {
-    "type": "meal",
-    "name": "Latte",
-    "price": "12"
-    },
-    {
-    "type": "meal",
-    "name": "Kawa po-turecku",
-    "price": "10"
-    },
-    {
-    "type": "info",
-    "text": "Bezalkoholowe drinki"
-    },
-    {
-    "type": "meal",
-    "name": "Soki 0,2",
-    "price": "6"
-    },
-    {
-    "type": "meal",
-    "name": "Soki 0,5",
-    "price": "8"
-    },
-    {
-    "type": "meal",
-    "name": "Fanta, Pepsi, Sprite 0,33",
-    "price": "8"
-    },
-    {
-    "type": "meal",
-    "name": "Woda gazowana 0,5",
-    "price": "6"
-    },
-    {
-    "type": "meal",
-    "name": "Woda niegazowana",
-    "price": "5"
-    },
-    {
-    "type": "info",
-    "text": "Soki wyciskane"
-    },
-    {
-    "type": "meal",
-    "name": "Pomaranczowy 0,4",
-    "price": "15"
-    },
-    {
-    "type": "meal",
-    "name": "Jabłkowy",
-    "price": "10"
-    },
-    {
-    "type": "meal",
-    "name": "Marchewkowy 0,4",
-    "price": "10"
-    },
-    {
-    "type": "meal",
-    "name": "Mix",
-    "price": "15"
-    },
-    {
-    "type": "info",
-    "text": "Koktajle"
-    },
-    {
-    "type": "meal",
-    "name": "Whisky sour",
-    "price": "20"
-    },
-    {
-    "type": "meal",
-    "name": "Mojito",
-    "price": "22"
-    },
-    {
-    "type": "meal",
-    "name": "Sangria 0,4",
-    "price": "22"
-    },
-    {
-    "type": "meal",
-    "name": "Copa finlandia (Kiwi, Kokos, Mango, Lime",
-    "price": "18"
-    },
-    {
-    "type": "meal",
-    "name": "Tequila Sunrise",
-    "price": "22"
-    },
-    {
-    "type": "meal",
-    "name": "Cosmopolitan",
-    "price": "23"
-    },
-    {
-    "type": "meal",
-    "name": "Aperol",
-    "price": "20"
-    },
-    {
-    "type": "info",
-    "text": "Herbaty"
-    },
-    {
-    "type": "meal",
-    "name": "Earl grey",
-    "price": "12"
-    },
-    {
-    "type": "meal",
-    "name": "Zielona",
-    "price": "10"
-    },
-    {
-    "type": "meal",
-    "name": "Imbirowa",
-    "price": "10"
-    },
-    {
-    "type": "meal",
-    "name": "Owocowa",
-    "price": "10"
-    },
-    {
-    "type": "meal",
-    "name": "Miętowa",
-    "price": "10"
-    }
-    ]
-    },
-    {
-    "name": "Burgery",
-    "products": [
-    {
-    "type": "meal",
-    "name": "Classic",
-    "price": "21",
-    "description": "200g wysokiej jakości wołowiny w bulce przenno-żytnej z dodatkami"
-    },
-    {
-    "type": "meal",
-    "name": "Jalapeno",
-    "price": "22",
-    "description": "kotlet wołowy w bułce z jalapeno"
-    },
-    {
-    "type": "meal",
-    "name": "Wegański",
-    "price": "20",
-    "description":"Burger z kotletą wegańską"
-    },
-    {
-    "name": "Dania Rybne",
-    "products": [
-    {
-    "type": "meal",
-    "name": "Dorsz na zielonym",
-    "price": "29",
-    "description": "Filet dorsza 180g w sosie porowo-śmiatankowym"
-    },
-    {
-    "type": "meal",
-    "name": "Redzki pstrąg z pieca",
-    "price": "36",
-    "description": "Zapiekany w maśle czosnkowym z ziołami, puree ziemniaczane, mix sałat"
-    },
-    {
-    "type": "meal",
-    "name": "Ryba maślana w sosie łimonkowo-mandarynkowym",
-    "price": "36",
-    "description": "Эспрессо, молоко, карамельный сироп, кедровый орех"
-    },
-    {
-    "type": "meal",
-    "name": "Stek z halibuta w sosie leśnym",
-    "price": "26",
-    "description": "Halibut 180g, sos śmietankowy na podgrzybkach i prawdziwkach, puree ziemniaczanym, mix sałata"
-    }
-    ]
-    },
-    {
-    "name": "Pizza 32 cm",
-    "products": [
-    {
-    "type": "meal",
-    "name": "Margherita",
-    "price": "15.50",
-    "description": "zioLowy sos pomidorowy, ser, oregano"
-    },
-    {
-    "type": "meal",
-    "name": "Fungi",
-    "price": "17",
-    "description": "sos,ser, pieczarki"
-    },
-    {
-    "type": "meal",
-    "name": "Capricciosa",
-    "price": "19",
-    "description": "sos,ser,szynka,pieczarki"
-    },
-    {
-    "type": "meal",
-    "name": "Grecka",
-    "price": "21",
-    "description": "sos, ser, pomidor, oliwki, czerwona cebula, papryka, ser feta"
-    },
-    {
-    "type": "meal",
-    "name": "Salami",
-    "price": "19",
-    "description": "sos,ser,salami"
-    },
-    {
-    "type": "meal",
-    "name": "Hawajska",
-    "price": "19",
-    "description": "sos,ser,szynka,ananas"
-    },
-    {
-    "type": "meal",
-    "name": "Wege",
-    "price": "50",
-    "description": "sos,ser,pieczarki.cebula, papryka, pomidor, brokuł"
-    },
-    {
-    "type": "meal",
-    "name": "Farmerska",
-    "price": "21",
-    "description": "sos,ser,kurczak, pomidor, papryka, pieczarki"
-    },
-    {
-    "type": "meal",
-    "name": "Ferkot",
-    "price": "21.50",
-    "description": "sos,ser,kurczak, pomidor, papryka, pieczarki"
-    },
-    {
-    "type": "meal",
-    "name": "Reda",
-    "price": "21.50",
-    "description": "sos,ser,szynka,kurczak, pomidor, pieczarki, kiszony ogórek"
-    },
-    {
-    "type": "info",
-    "text": "Dodatki do pizzy"
-    },
-    {
-    "type": "meal",
-    "name": "Warzywa",
-    "price": "3"
-    },
-    {
-    "type": "meal",
-    "name": "Mięso/śery",
-    "price": "3"
-    },
-    {
-    "type": "meal",
-    "name": "Owoce morza",
-    "price": "4.50"
-    },
-    {
-    "type": "meal",
-    "name": "Podwójne ciasto",
-    "price": "4"
-    },
-    {
-    "type": "meal",
-    "name": "Jajko 1szt",
-    "price": "3"
-    }
-    ]
-    }
-    ]
-    }
-    ],
-    "links": [
-    {
-    "name": "facebook",
-    "link": "https://www.facebook.com/vanilpoltava/"
-    },
-    {
-    "name": "instagram",
-    "link": "https://www.instagram.com/vanil_poltava_/"
-    }
-    ],
-    "design": [
-    {
-    "name": "background_color",
-    "color": "#F4F4F4"
-    },
-    {
-    "name": "background_img",
-    "img": "https://storage.googleapis.com/rest_images/plt_vanil/back.png"
-    },
-    {
-    "name": "font_color",
-    "color": "#5C3736"
-    },
-    {
-    "name": "menu_background",
-    "color": "#FFFBEF"
-    },
-    {
-    "name": "menu_head",
-    "color": "#D4927A"
-    },
-    {
-    "name": "menu_small",
-    "color": "#A7634A"
-    },
-    {
-    "name": "logo_img",
-    "link": "https://storage.googleapis.com/rest_images/plt_vanil/logo.jpg"
-    },
-    {
-    "name": "header_img",
-    "link": "https://storage.googleapis.com/rest_images/plt_vanil/obl.png"
-    },
-    {
-    "name": "theme",
-    "data": "light"
-    },
-    {
-    "name": "menu_head_font",
-    "color": "#FFFFFF"
-    },
-    {
-    "name": "menu_small_font",
-    "color": "#FFFFFF"
-    },
-    {
-    "name": "header_font",
-    "color": "#FFFFFF"
-    },
-    {
-    "name": "menu_font",
-    "color": "#5F3737"
-    }
-    ]
-    }
+   "rest_name":"Ferkot",
+   "rest_address":"Jastarnia, Sychty 49",
+   "menu":"Menu",
+   "blocks":[
+      {
+         "name":"Sałatki",
+         "products":[
+            {
+               "type":"meal",
+               "name":"Z wątróbką drobiową",
+               "price":"19",
+               "description":"Duszona wraz z jabłkiem w miodzie",
+               "img":""
+            },
+            {
+               "type":"meal",
+               "name":"Z grillowanym Kurczakiem",
+               "price":"21",
+               "description":"mix sałat z kurczakiem grillowanym",
+               "img":""
+            },
+            {
+               "type":"meal",
+               "name":"Grecka Horiatiki",
+               "price":"22",
+               "description":"Pomidor, papryka, oliwki, czerwona cebula, ser feta, oregano, oliwa",
+               "img":""
+            },
+            {
+               "type":"meal",
+               "name":"Kozi Ser i Gruszka",
+               "price":"26",
+               "description":"Ser kozi w towarzystwie gruszki karamelizowanej",
+               "img":""
+            }
+         ]
+      },
+      {
+         "name":"Zupy",
+         "products":[
+            {
+               "type":"meal",
+               "name":"Rosół domowy",
+               "price":"10",
+               "img":""
+            },
+            {
+               "type":"meal",
+               "name":"żurek na sposób szłachecki",
+               "price":"12",
+               "img":""
+            },
+            {
+               "type":"meal",
+               "name":"Zupa dnia",
+               "price":"8",
+               "img":""
+            }
+         ]
+      },
+      {
+         "name":"Pierogi i pasty",
+         "products":[
+            {
+               "type":"meal",
+               "name":"Micha pirogów",
+               "description":"Do wyboru Ruskie, z mięsem, mix",
+               "price":"18"
+            },
+            {
+               "type":"meal",
+               "name":"Rukoła, pieczarki, boczek",
+               "description":"Domowy makaron, rukołą, pieczarki, boczek z sosem śmietankowym ",
+               "price":"24"
+            },
+            {
+               "type":"meal",
+               "name":"Penne z kurczakiem i brokułami",
+               "description":"w sosie śmietankowym",
+               "price":"60"
+            }
+         ]
+      },
+      {
+         "name":"Dania mięsne",
+         "products":[
+            {
+               "type":"meal",
+               "name":"Leśniczy, Nasza Specjalność",
+               "description":"rolada z karkówki faszerowana droobiem w sosie z grzybów leśnych",
+               "price":"24zł"
+            },
+            {
+               "type":"meal",
+               "name":"Grillowana soczysta pierś z kurczaka",
+               "description":"Ryż curry, grillowane warzywa",
+               "price":"22"
+            },
+            {
+               "type":"meal",
+               "name":"Placek Ferkot",
+               "description":"smażony na bieżąco ze świeżo ucieranych ziemniaków, serwowany z wieprzowym gulaszem",
+               "price":"23"
+            },
+            {
+               "type":"meal",
+               "name":"Narodowy kotlet schabowy",
+               "description":"schab panierowany, lekko wytrawna kapusta zasmażana, ziemniaki z wody",
+               "price":"23"
+            },
+            {
+               "type":"meal",
+               "name":"Kotlet De Volaille",
+               "description":"przyrządzany na bieżąco z prawdziwym masłem i aromatyczną nutką pietruszki",
+               "price":"24"
+            }
+         ]
+      },
+      {
+         "name":"Napoje",
+         "products":[
+            {
+               "type":"info",
+               "text":"Kawa"
+            },
+            {
+               "type":"meal",
+               "name":"Espresso",
+               "price":"8"
+            },
+            {
+               "type":"meal",
+               "name":"Doppio",
+               "price":"12"
+            },
+            {
+               "type":"meal",
+               "name":"Americano",
+               "price":"10"
+            },
+            {
+               "type":"meal",
+               "name":"Americano białe",
+               "price":"12"
+            },
+            {
+               "type":"meal",
+               "name":"Capuccino",
+               "price":"12"
+            },
+            {
+               "type":"meal",
+               "name":"Latte",
+               "price":"12"
+            },
+            {
+               "type":"meal",
+               "name":"Kawa po-turecku",
+               "price":"10"
+            },
+            {
+               "type":"info",
+               "text":"Bezalkoholowe drinki"
+            },
+            {
+               "type":"meal",
+               "name":"Soki 0,2",
+               "price":"6"
+            },
+            {
+               "type":"meal",
+               "name":"Soki 0,5",
+               "price":"8"
+            },
+            {
+               "type":"meal",
+               "name":"Fanta, Pepsi, Sprite 0,33",
+               "price":"8"
+            },
+            {
+               "type":"meal",
+               "name":"Woda gazowana 0,5",
+               "price":"6"
+            },
+            {
+               "type":"meal",
+               "name":"Woda niegazowana",
+               "price":"5"
+            },
+            {
+               "type":"info",
+               "text":"Soki wyciskane"
+            },
+            {
+               "type":"meal",
+               "name":"Pomaranczowy 0,4",
+               "price":"15"
+            },
+            {
+               "type":"meal",
+               "name":"Jabłkowy",
+               "price":"10"
+            },
+            {
+               "type":"meal",
+               "name":"Marchewkowy 0,4",
+               "price":"10"
+            },
+            {
+               "type":"meal",
+               "name":"Mix",
+               "price":"15"
+            },
+            {
+               "type":"info",
+               "text":"Koktajle"
+            },
+            {
+               "type":"meal",
+               "name":"Whisky sour",
+               "price":"20"
+            },
+            {
+               "type":"meal",
+               "name":"Mojito",
+               "price":"22"
+            },
+            {
+               "type":"meal",
+               "name":"Sangria 0,4",
+               "price":"22"
+            },
+            {
+               "type":"meal",
+               "name":"Copa finlandia (Kiwi, Kokos, Mango, Lime",
+               "price":"18"
+            },
+            {
+               "type":"meal",
+               "name":"Tequila Sunrise",
+               "price":"22"
+            },
+            {
+               "type":"meal",
+               "name":"Cosmopolitan",
+               "price":"23"
+            },
+            {
+               "type":"meal",
+               "name":"Aperol",
+               "price":"20"
+            },
+            {
+               "type":"info",
+               "text":"Herbaty"
+            },
+            {
+               "type":"meal",
+               "name":"Earl grey",
+               "price":"12"
+            },
+            {
+               "type":"meal",
+               "name":"Zielona",
+               "price":"10"
+            },
+            {
+               "type":"meal",
+               "name":"Imbirowa",
+               "price":"10"
+            },
+            {
+               "type":"meal",
+               "name":"Owocowa",
+               "price":"10"
+            },
+            {
+               "type":"meal",
+               "name":"Miętowa",
+               "price":"10"
+            }
+         ]
+      },
+      {
+         "name":"Burgery",
+         "products":[
+            {
+               "type":"meal",
+               "name":"Classic",
+               "price":"21",
+               "description":"200g wysokiej jakości wołowiny w bulce przenno-żytnej z dodatkami"
+            },
+            {
+               "type":"meal",
+               "name":"Jalapeno",
+               "price":"22",
+               "description":"kotlet wołowy w bułce z jalapeno"
+            },
+            {
+               "type":"meal",
+               "name":"Wegański",
+               "price":"20",
+               "description":"Burger z kotletą wegańską"
+            },
+            {
+               "name":"Dania Rybne",
+               "products":[
+                  {
+                     "type":"meal",
+                     "name":"Dorsz na zielonym",
+                     "price":"29",
+                     "description":"Filet dorsza 180g w sosie porowo-śmiatankowym"
+                  },
+                  {
+                     "type":"meal",
+                     "name":"Redzki pstrąg z pieca",
+                     "price":"36",
+                     "description":"Zapiekany w maśle czosnkowym z ziołami, puree ziemniaczane, mix sałat"
+                  },
+                  {
+                     "type":"meal",
+                     "name":"Ryba maślana w sosie łimonkowo-mandarynkowym",
+                     "price":"36",
+                     "description":"Эспрессо, молоко, карамельный сироп, кедровый орех"
+                  },
+                  {
+                     "type":"meal",
+                     "name":"Stek z halibuta w sosie leśnym",
+                     "price":"26",
+                     "description":"Halibut 180g, sos śmietankowy na podgrzybkach i prawdziwkach, puree ziemniaczanym, mix sałata"
+                  }
+               ]
+            },
+            {
+               "name":"Pizza 32 cm",
+               "products":[
+                  {
+                     "type":"meal",
+                     "name":"Margherita",
+                     "price":"15.50",
+                     "description":"zioLowy sos pomidorowy, ser, oregano"
+                  },
+                  {
+                     "type":"meal",
+                     "name":"Fungi",
+                     "price":"17",
+                     "description":"sos,ser, pieczarki"
+                  },
+                  {
+                     "type":"meal",
+                     "name":"Capricciosa",
+                     "price":"19",
+                     "description":"sos,ser,szynka,pieczarki"
+                  },
+                  {
+                     "type":"meal",
+                     "name":"Grecka",
+                     "price":"21",
+                     "description":"sos, ser, pomidor, oliwki, czerwona cebula, papryka, ser feta"
+                  },
+                  {
+                     "type":"meal",
+                     "name":"Salami",
+                     "price":"19",
+                     "description":"sos,ser,salami"
+                  },
+                  {
+                     "type":"meal",
+                     "name":"Hawajska",
+                     "price":"19",
+                     "description":"sos,ser,szynka,ananas"
+                  },
+                  {
+                     "type":"meal",
+                     "name":"Wege",
+                     "price":"50",
+                     "description":"sos,ser,pieczarki.cebula, papryka, pomidor, brokuł"
+                  },
+                  {
+                     "type":"meal",
+                     "name":"Farmerska",
+                     "price":"21",
+                     "description":"sos,ser,kurczak, pomidor, papryka, pieczarki"
+                  },
+                  {
+                     "type":"meal",
+                     "name":"Ferkot",
+                     "price":"21.50",
+                     "description":"sos,ser,kurczak, pomidor, papryka, pieczarki"
+                  },
+                  {
+                     "type":"meal",
+                     "name":"Reda",
+                     "price":"21.50",
+                     "description":"sos,ser,szynka,kurczak, pomidor, pieczarki, kiszony ogórek"
+                  },
+                  {
+                     "type":"info",
+                     "text":"Dodatki do pizzy"
+                  },
+                  {
+                     "type":"meal",
+                     "name":"Warzywa",
+                     "price":"3"
+                  },
+                  {
+                     "type":"meal",
+                     "name":"Mięso/śery",
+                     "price":"3"
+                  },
+                  {
+                     "type":"meal",
+                     "name":"Owoce morza",
+                     "price":"4.50"
+                  },
+                  {
+                     "type":"meal",
+                     "name":"Podwójne ciasto",
+                     "price":"4"
+                  },
+                  {
+                     "type":"meal",
+                     "name":"Jajko 1szt",
+                     "price":"3"
+                  }
+               ]
+            }
+         ]
+      }
+   ],
+   "links":[
+      {
+         "name":"facebook",
+         "link":"https://www.facebook.com/vanilpoltava/"
+      },
+      {
+         "name":"instagram",
+         "link":"https://www.instagram.com/vanil_poltava_/"
+      }
+   ],
+   "design":[
+      {
+         "name":"background_color",
+         "color":"#F4F4F4"
+      },
+      {
+         "name":"background_img",
+         "img":"https://storage.googleapis.com/rest_images/plt_vanil/back.png"
+      },
+      {
+         "name":"font_color",
+         "color":"#5C3736"
+      },
+      {
+         "name":"menu_background",
+         "color":"#FFFBEF"
+      },
+      {
+         "name":"menu_head",
+         "color":"#D4927A"
+      },
+      {
+         "name":"menu_small",
+         "color":"#A7634A"
+      },
+      {
+         "name":"logo_img",
+         "link":"https://storage.googleapis.com/rest_images/plt_vanil/logo.jpg"
+      },
+      {
+         "name":"header_img",
+         "link":"https://storage.googleapis.com/rest_images/plt_vanil/obl.png"
+      },
+      {
+         "name":"theme",
+         "data":"light"
+      },
+      {
+         "name":"menu_head_font",
+         "color":"#FFFFFF"
+      },
+      {
+         "name":"menu_small_font",
+         "color":"#FFFFFF"
+      },
+      {
+         "name":"header_font",
+         "color":"#FFFFFF"
+      },
+      {
+         "name":"menu_font",
+         "color":"#5F3737"
+      }
+   ]
+}
